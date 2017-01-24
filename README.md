@@ -1,5 +1,8 @@
 # PianoEarTraining
-Simple ear training software for music learner
+Python 3 creates simple ear training software for music learner.
+
+## Objective
+Practice to identify playing piano keys.
 
 ## Prerequisite
 Install [PyAudio](https://pypi.python.org/pypi/PyAudio) : ```python -m pip install pyaudio```
